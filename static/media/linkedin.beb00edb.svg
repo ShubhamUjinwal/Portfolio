@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="34px" height="34px" viewBox="0 0 72 72" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Linkedin-icon-2">
+    <path d="M0 0L72 0L72 72L0 72L0 0Z" id="Background" fill="none" stroke="none" />
+    <path d="M54 46.5C54 50.643 50.643 54 46.5 54L7.5 54C3.3585 54 0 50.643 0 46.5L0 7.5C0 3.357 3.3585 0 7.5 0L46.5 0C50.643 0 54 3.357 54 7.5L54 46.5L54 46.5Z" transform="translate(9 9)" id="Shape" fill="#0288D1" stroke="none" />
+    <path d="M3.7275 7.5L3.6855 7.5C1.4475 7.5 0 5.832 0 3.7485C0 1.62 1.4925 0 3.771 0C6.0525 0 7.458 1.62 7.5 3.7485C7.5 5.8305 6.0525 7.5 3.7275 7.5ZM7.5 10.5L0 10.5L0 36L7.5 36L7.5 10.5ZM28.5 36L36 36L35.9985 21.411C35.9985 13.875 31.974 10.5 26.607 10.5C22.275 10.5 20.5815 12.75 19.5 14.424L19.5 10.5L12 10.5L12 36L19.5 36L19.5 22.5C19.5 22.3748 19.4982 22.2287 19.4961 22.0699C19.4862 21.2979 19.4724 20.2249 19.6515 19.7895C20.2425 18.3225 21.4605 16.8045 23.712 16.8045C26.6625 16.8045 28.5 19.0545 28.5 22.3515L28.5 36Z" transform="translate(18 18)" id="Shape" fill="#EEEEEE" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
