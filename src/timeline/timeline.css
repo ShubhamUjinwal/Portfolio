@@ -1,0 +1,30 @@
+#timeline{
+    height: 100%;
+    width: 100%;
+    background:  #fafafa url("../images/images3.jpg") center right no-repeat;
+    background-attachment: fixed;
+    background-size: 100vw;
+}
+#timeline .title {
+    padding-top: 2em;
+    grid-column-end: span 4;
+    display: flex;
+    color: black;
+    font-size: 2.4rem;
+    font-family: 'Bitter', serif;
+    flex-direction: column;
+    align-items: center;
+}
+#timeline .separator {
+    background: #00ffff;
+    width: 150px;
+    height: 2px;
+    margin: 1rem 0;
+    padding: 0; 
+}
+
+@media only screen and (max-width: 649px) {
+   #timeline{
+       background-size: 100vh;
+   }
+}

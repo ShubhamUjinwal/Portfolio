@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Handling background particles*/
+.particles{
+    position: relative;
+    height: 95vh;
+    width: 100%;
+    background-color: #0c0c0c;
+    background-position: top;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+    /* clip-path: polygon(59% 0, 100% 0, 100% 35%, 100% 70%, 100% 100%, 84% 76%, 0 100%, 0% 70%, 0% 35%, 0 0);} */
+}
+.background{
+    height: 95vh;
+}

@@ -1,0 +1,72 @@
+.background-title{
+    position: absolute;
+    z-index: 1;
+    font-family: 'Bitter', serif;
+    top: 35%;
+    left: 10%;
+    animation: moveInUp 2s;
+    user-select: none;
+}
+
+.background-title > h1{
+    text-align: left;
+    display: block;
+    color: white;
+    font-size: 6vw;
+    letter-spacing: 2px;
+}
+.background-title > h3{
+    /* color: deeppink; */
+    color: cyan;
+    margin-left: 10px;
+    text-align: left;
+    font-size: 2vw;
+}
+/* 
+.background-title > h3 span{
+  color: rgb(255, 82, 20);
+} */
+
+/*Media Queries*/
+@media screen and (max-width: 420px) {
+  .background-title > h1 {
+      font-size: 16vw;
+    }
+    .background-title > h3{
+      font-size: 6vw;
+    }
+}
+
+@media screen and (max-width: 800px) {
+  .background-title > h1 {
+      font-size: 16vw;
+    }
+    .background-title > h3{
+      font-size: 6vw;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+  .background-title > h1 {
+      font-size: 12vw;
+    }
+    .background-title > h3{
+      font-size: 3vw;
+    }
+}
+
+@keyframes moveInUp{
+    0%{
+        opacity: 0;
+        transform: translateY(100px);
+    }
+
+    80%{
+
+    }
+      
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
+}
