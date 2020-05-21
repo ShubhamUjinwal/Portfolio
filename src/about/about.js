@@ -23,7 +23,7 @@ export default class About extends React.Component{
                       and Computing Science as major with 2+ years of experience in software
                         and web development.
                     </p>
-                    <p>I really enjoy solving problems as well as making things preety and easy to use.
+                    <p>I really enjoy solving problems as well as making things good and easy to use.
                       I can't stop learning new things; the more, the better.
                     </p>
 

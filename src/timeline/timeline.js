@@ -84,9 +84,9 @@ export default class Timeline extends React.Component{
 
                 >
                     <h1 style={{fontFamily:'Libre Baskerville, serif', color:'white'}} className="vertical-timeline-element-title">Computer Engineering Technology</h1>
-                    <h2 style={{fontFamily:'Libre Baskerville, serif', color:'cyan'}} className="vertical-timeline-element-subtitle">A&W</h2>
+                    <h2 style={{fontFamily:'Libre Baskerville, serif', color:'cyan'}} className="vertical-timeline-element-subtitle">Algonquin College</h2>
                     <p>
-                    Award: Dean Honors's List
+                    Award: Dean Honors's List in 3 semesters
                     <br></br>GPA: 3.54
                     
                     </p>
