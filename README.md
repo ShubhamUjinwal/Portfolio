@@ -1,6 +1,6 @@
 ## Portfolio
 
-Created a responsive portfolio where you can learn more about my skills and past experiences.
+Created a responsive portfolio where you can learn more about my skills and past experiences.<br/>
 Link: https://shubhamujinwal.github.io/Portfolio/
 
 ### `Technology`
