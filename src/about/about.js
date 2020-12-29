@@ -19,12 +19,11 @@ export default class About extends React.Component{
                         <img id="me-img" src={photo2} alt={'Ph'}/>
                   </div>
                   <div className="desc">
-                    <p>I recently graduated from Algonquin College with Computer Engineering Technology
-                      and Computing Science as major with 2+ years of experience in software
-                        and web development.
+                    <p>Recently completed my AWS Solutions Architect Associate Certification after finished
+my 3-year advanced Diploma in Computer Engineering from Algonquin College.
                     </p>
-                    <p>I really enjoy solving problems as well as making things good and easy to use.
-                      I can't stop learning new things; the more, the better.
+                    <p>Skilled in agile processes, backend and frontend development, and creating a social media web application that
+integrates with GraphQL API with subscriptions for real-time updates.
                     </p>
 
                   </div>
@@ -42,13 +41,11 @@ export default class About extends React.Component{
                      managing DHCP server in Linux operating system.
                   </p>
                   <p>
-                    As a Backend developer, I worked in a group of 4 and developed an e-commerce app using 
-                    React-Native, JavaScript, MongoDB, Expo platform, Git VCS. from 
-                    scratch for KataniTech company. 
+                  I led a group of four and worked as a React Developer on an e-commerce
+                  app from scratch using the MERN Architecture for KataniTech Company.
                   </p>
                   <p>
-                    Currently focused on learning Kubernetes with AWS, MERN Stack Architecture and 
-                    pursuing for AWS Solution Architect Exam.
+                    Currently focused on polishing my problem solving skills, data structures & algorithms, and   cross-platform Web Development on AWS cloud.
                   </p>
                 </div>
               </article>

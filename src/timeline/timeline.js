@@ -25,7 +25,7 @@ export default class Timeline extends React.Component{
                     iconStyle={{ background: 'gray', color: 'cyan' }}
 
                 >
-                    <h1 style={{fontFamily:'Libre Baskerville, serif', color:'white'}} className="vertical-timeline-element-title">Backend Developer</h1>
+                    <h1 style={{fontFamily:'Libre Baskerville, serif', color:'white'}} className="vertical-timeline-element-title">React Developer</h1>
                     <h2 style={{fontFamily:'Libre Baskerville, serif', color:'cyan'}} className="vertical-timeline-element-subtitle">KataniTech</h2>
                     <p>
                     Worked with group of 4 and developed an ecommerce app using MERN Stack Architecture as it was part of my Academics.

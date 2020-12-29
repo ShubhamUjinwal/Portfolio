@@ -3,6 +3,7 @@ import './projects.css';
 import logo from '../images/rsz_pp.png';
 import dotnet from '../images/dotnet.png';
 import compiler from '../images/c-programming.jpg';
+import nextconnect from '../images/nextconnect.PNG';
 import Project from './project/project';
 
 export default class extends React.Component{
@@ -19,12 +20,28 @@ export default class extends React.Component{
                 {/* <p className="separator" /> */}
                 </div>
                 <div className="projects-wrapper">
+
+                <Project
+                    title="NextConnect"
+                    img={nextconnect}
+                    tech="js css react node"
+                    link="https://github.com/ShubhamUjinwal/NextConnect"
+                    repo="https://github.com/ShubhamUjinwal/NextConnect"
+                >
+                    <small>
+                    Using NodeJS, React, ES6 , GraphQl, HTML, CSS and AWS.
+                    </small>
+                    <p>
+                    NextConnect is a social media web application in which a user can make posts with text or media files.
+                    </p>
+                </Project>
+
                 <Project
                     title="PopTikr"
                     img={logo}
                     tech="js css react node"
-                    link="https://github.com/ShubhamUjinwal/Portfolio"
-                    repo="https://github.com/ShubhamUjinwal/Portfolio"
+                    link="https://poptikr.com/"
+                    repo="https://poptikr.com/"
                 >
                     <small>
                     Using NodeJS, React Native, MongoDB, Express, CSS,  Mongoose and SendGrid.
