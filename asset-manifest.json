@@ -1,33 +1,34 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.869eab8b.chunk.css",
-    "main.js": "/Portfolio/static/js/main.cbe402e8.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.cbe402e8.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.528d0808.chunk.css",
+    "main.js": "/Portfolio/static/js/main.2750b81f.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.2750b81f.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.d26897fe.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d26897fe.js.map",
     "static/css/2.f681e662.chunk.css": "/Portfolio/static/css/2.f681e662.chunk.css",
-    "static/js/2.c9537c2f.chunk.js": "/Portfolio/static/js/2.c9537c2f.chunk.js",
-    "static/js/2.c9537c2f.chunk.js.map": "/Portfolio/static/js/2.c9537c2f.chunk.js.map",
+    "static/js/2.d50c72d3.chunk.js": "/Portfolio/static/js/2.d50c72d3.chunk.js",
+    "static/js/2.d50c72d3.chunk.js.map": "/Portfolio/static/js/2.d50c72d3.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.5fe9408d12ee47c9b36e13bdadec93c9.js": "/Portfolio/precache-manifest.5fe9408d12ee47c9b36e13bdadec93c9.js",
+    "precache-manifest.54d853d7cf382ee7f03275b158f6b28c.js": "/Portfolio/precache-manifest.54d853d7cf382ee7f03275b158f6b28c.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.f681e662.chunk.css.map": "/Portfolio/static/css/2.f681e662.chunk.css.map",
-    "static/css/main.869eab8b.chunk.css.map": "/Portfolio/static/css/main.869eab8b.chunk.css.map",
-    "static/js/2.c9537c2f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.c9537c2f.chunk.js.LICENSE.txt",
-    "static/media/Shubham_Ujinwal_resume.pdf": "/Portfolio/static/media/Shubham_Ujinwal_resume.e06ea778.pdf",
+    "static/css/main.528d0808.chunk.css.map": "/Portfolio/static/css/main.528d0808.chunk.css.map",
+    "static/js/2.d50c72d3.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.d50c72d3.chunk.js.LICENSE.txt",
+    "static/media/Shubham_Ujinwal_resume.pdf": "/Portfolio/static/media/Shubham_Ujinwal_resume.54c6c919.pdf",
     "static/media/c-programming.jpg": "/Portfolio/static/media/c-programming.cdaf4655.jpg",
     "static/media/dotnet.png": "/Portfolio/static/media/dotnet.05e382c0.png",
     "static/media/download.png": "/Portfolio/static/media/download.c83cb208.png",
     "static/media/navbar.css": "/Portfolio/static/media/linkedin.beb00edb.svg",
     "static/media/timeline.css": "/Portfolio/static/media/images3.141aca44.jpg",
     "static/media/me2.jpg": "/Portfolio/static/media/me2.f1030cdf.jpg",
+    "static/media/nextconnect.PNG": "/Portfolio/static/media/nextconnect.dc204cea.PNG",
     "static/media/rsz_pp.png": "/Portfolio/static/media/rsz_pp.78a74b64.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d26897fe.js",
     "static/css/2.f681e662.chunk.css",
-    "static/js/2.c9537c2f.chunk.js",
-    "static/css/main.869eab8b.chunk.css",
-    "static/js/main.cbe402e8.chunk.js"
+    "static/js/2.d50c72d3.chunk.js",
+    "static/css/main.528d0808.chunk.css",
+    "static/js/main.2750b81f.chunk.js"
   ]
 }
